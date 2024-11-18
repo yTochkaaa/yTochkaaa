@@ -16,6 +16,8 @@
 ### [🟠 Side ](https://ytochkaaa.notion.site/Story-1211bff84f94802fb146c3a0b2bb54a9)
 ### [⚪ Story ](https://scan.initia.tech/initiation-1/validators/initvaloper1ehdzdv2m08z63vcz9rkp9yf26whlzw6u7jy23d)
 ### [🔴 Waku ](https://ytochkaaa.notion.site/Waku-10c1bff84f9480e488c7cc04ec1176c5)
+### [🟡 Sunrise](https://ytochkaaa.notion.site/Sunrise-1421bff84f9480a0ae6ccd230d97f872)
+### [🟤 Kopi](https://ytochkaaa.notion.site/Kopi-1421bff84f94803a8e58c2b672518423)
 
 ---
 
